@@ -1,0 +1,20 @@
+# Pastas geradas pelo Unity (NAO subir)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Arquivos de IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# Sistema
+.DS_Store
+Thumbs.db
